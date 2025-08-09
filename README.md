@@ -16,7 +16,7 @@ Je conçois des interfaces user-friendly & accessibles, et je relève volontiers
 </div>
 
 - **Front-end :** HTML5, CSS3, JavaScript, React  
-- **Back-end :** PHP  
+- **Back-end :** PHP, SQL
 - **Outils :** GitHub, VSCode
 
 ---
@@ -32,6 +32,23 @@ Je conçois des interfaces user-friendly & accessibles, et je relève volontiers
 
 ---
 
+## ✨ Projet Perso Principal
+
+**💡 Dashboard personnel** regroupant toutes les informations utiles à mon quotidien, développé et hébergé sur mon propre **Raspberry Pi**.  
+Il sert de centre de contrôle et d’accès rapide à mes outils et services :
+
+- 🔗 **Raccourcis & Liens utiles** → intégration avec *Home Assistant* et autres liens locaux
+- 🌍 **WireGuard VPN** → accès sécurisé à mon réseau domestique
+- 🚫 **Pi-Hole** → bloqueur de publicités et suivi en temps réel
+- ☁ **Cloud personnel** → sauvegarde de fichiers et visualisation via une interface PHP
+- ⚡ Interface optimisée et responsive pour un accès depuis tout appareil
+
+**Stack technique :** React · PHP · SQL  
+**Infrastructure :** Hébergé sur Raspberry Pi
+
+---
+
+
 ## 📊 Statistiques GitHub
 
 ![Bastien150's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bastien150&show_icons=true&theme=tokyonight)
@@ -41,9 +58,9 @@ Je conçois des interfaces user-friendly & accessibles, et je relève volontiers
 
 ## 🌱 En ce moment j’apprends :
 
-- React avancé, Node.js  
+- React 
 - Optimisation des interfaces, bonnes pratiques web  
-- Curiosité : automation & API, accessibilité
+- Curiosité : automation & API, Domotique, ESP32
 
 ---
 
