@@ -20,6 +20,11 @@ Développeur passionné dans le web, basé entre voiron et Grenoble, spécialis�
 ---
 
 ## 📌 Projets majeurs
+🔹 [Portfolio](https://github.com/Bastien150/projetEpoka)  
+Portfolio decrivant mon parcours et mes deux stages
+1er Hardis Group : App en python avec QT
+2eme Laboratoire GSCOP : Dashboard avec ChartJS, javascript, php, API
+Tech: JavaScript, HTML, CSS
 
 🔹 [Projet Fin d'année BTS Partie web](https://github.com/Bastien150/projetEpoka)  
 Site web pour calculer les frais kilométrique avec pour accès roles
@@ -27,11 +32,11 @@ Tech: PHP, CSS
 
 🔹 [Boutique Plantes](https://github.com/Bastien150/app-plant-react)  
 1er Projet en React.  
-Tech: React, Javascript, html, CSS   
+Tech: React, Javascript, HTML, CSS   
 
 🔹 [Projet 1er année BTS](https://github.com/Bastien150/serveur-web)  
 Différents projets (Palindrome, Flashcard, todo list app)  
-Tech: Javascript, php, hmtl
+Tech: JavaScript, PHP, HTML
 Framework : Pico CSS
 
 
