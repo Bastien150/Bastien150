@@ -49,14 +49,6 @@ Il sert de centre de contrôle et d’accès rapide à mes outils et services 
 
 ---
 
-
-## 📊 Statistiques GitHub
-
-![Bastien150's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bastien150&show_icons=true&theme=tokyonight)
-![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Bastien150&layout=compact)
-
----
-
 ## 🌱 En ce moment j’apprends :
 
 - React 
