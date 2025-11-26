@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Bastien
 
-🎯 **Développeur Web passionné** entre Voiron et Grenoble, spécialisé dans la création de sites et d’applications web dynamiques.  
+🎯 **Développeur passionné** entre Voiron et Grenoble, spécialisé dans la création d'application et d’applications web dynamiques.  
 Je conçois des interfaces user-friendly & accessibles, et je relève volontiers tous les défis techniques !
 
 ---
@@ -15,7 +15,7 @@ Je conçois des interfaces user-friendly & accessibles, et je relève volontiers
   <img src="https://img.shields.io/badge/php-000000?style=flat-square&logo=php&logoColor=white"/>
 </div>
 
-- **Front-end :** HTML5, CSS3, JavaScript, React  
+- **Front-end :** HTML5, CSS3, JavaScript, React, Java
 - **Back-end :** PHP, SQL
 - **Outils :** GitHub, VSCode
 
