@@ -29,6 +29,7 @@ Je conçois des interfaces user-friendly & accessibles, et je relève volontiers
 | [Projet Fin d'année BTS](https://github.com/Bastien150/projetEpoka) | Calculateur de frais kilométriques avec gestion des rôles.<br>Accès sécurisé pour l’administration. | PHP, CSS |
 | [Boutique Plantes](https://github.com/Bastien150/app-plant-react)   | Premier projet React : boutique de plantes avec gestion de panier et de filtres.                       | React, JavaScript, HTML, CSS |
 | [Projets 1ère année BTS](https://github.com/Bastien150/serveur-web) | Plusieurs petites apps : palindrome, flashcards, todo list.<br>Découverte de PicoCSS et des bases du web.            | JavaScript, PHP, HTML, PicoCSS |
+
 ![Aperçu dashboard perso](./img/captureAcceuilTeals.png)
 
 ---
