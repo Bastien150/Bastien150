@@ -30,7 +30,7 @@ Je conçois des interfaces user-friendly & accessibles, et je relève volontiers
 | [Boutique Plantes](https://github.com/Bastien150/app-plant-react)   | Premier projet React : boutique de plantes avec gestion de panier et de filtres.                       | React, JavaScript, HTML, CSS |
 | [Projets 1ère année BTS](https://github.com/Bastien150/serveur-web) | Plusieurs petites apps : palindrome, flashcards, todo list.<br>Découverte de PicoCSS et des bases du web.            | JavaScript, PHP, HTML, PicoCSS |
 
-![Aperçu dashboard perso](./img/captureAcceuilTeals.png)
+![Aperçu dashboard perso](./captureAcceuilTeals.png)
 
 ---
 
