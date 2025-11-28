@@ -36,9 +36,9 @@ Je conçois des interfaces user-friendly & accessibles, et je relève volontiers
 
 | Projet        | Description                                                                                                                             | Stack         |
 |---------------|-----------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| [Portfolio](https://github.com/Bastien150/projetEpoka)        | Présentation interactive de mon parcours et de mes deux stages.<br>• **Hardis Group** : appli Python avec QT<br>• **Laboratoire GSCOP** : dashboard avec ChartJS, JavaScript, PHP, API | JavaScript, PHP, HTML, CSS |
+| [Portfolio](https://glubul.ovh/portfolio)        | Présentation interactive de mon parcours et de mes deux stages.<br>• **Hardis Group** : appli Python avec QT<br>• **Laboratoire GSCOP** : dashboard avec ChartJS, JavaScript, PHP, API | JavaScript, PHP, HTML, CSS |
 | [Projet Fin d'année BTS](https://github.com/Bastien150/projetEpoka) | Calculateur de frais kilométriques avec gestion des rôles.<br>Accès sécurisé pour l’administration. | PHP, CSS |
-| [Boutique Plantes](https://github.com/Bastien150/app-plant-react)   | Premier projet React : boutique de plantes avec gestion de panier et de filtres.                       | React, JavaScript, HTML, CSS |
+| [MoviDex](https://github.com/Bastien150/Movidex)   | Premier projet React : Site web qui affiche des informations sur des films (API TMDB)                       | React, JavaScript, tailwind |
 | [Projets 1ère année BTS](https://github.com/Bastien150/serveur-web) | Plusieurs petites apps : palindrome, flashcards, todo list.<br>Découverte de PicoCSS et des bases du web.            | JavaScript, PHP, HTML, PicoCSS |
 
 
